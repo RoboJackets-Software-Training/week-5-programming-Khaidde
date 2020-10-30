@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="week_5_exercises" type="printing_node" name="printing_node" output="screen">
+        <rosparam command="load" file="$(find week_5_exercises)/config/node_config.yaml"/>
+    </node>
+</launch>

@@ -1,0 +1,2 @@
+.
+-DCATKIN_DEVEL_PREFIX=/home/vagrant/Documents/RobocupSoftwareTraining/week-5-programming-Khaidde/week_5_exercises/devel -DCMAKE_INSTALL_PREFIX=/home/vagrant/Documents/RobocupSoftwareTraining/week-5-programming-Khaidde/week_5_exercises/install -G Unix Makefiles

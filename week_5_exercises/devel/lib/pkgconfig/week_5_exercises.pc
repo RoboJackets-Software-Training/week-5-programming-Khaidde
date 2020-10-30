@@ -1,0 +1,8 @@
+prefix=/home/vagrant/Documents/RobocupSoftwareTraining/week-5-programming-Khaidde/week_5_exercises/devel
+
+Name: week_5_exercises
+Description: Description of week_5_exercises
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
